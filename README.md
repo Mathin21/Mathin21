@@ -18,8 +18,7 @@
 🚀 **Featured Projects:**<br>
 ✈️ Airline Complaint Classification System using NLP & Deep Learning<br>
 🧠 Personalized Mental Health Analysis Using Artificial Intelligence (Project Lead)<br>
-👨‍💼 Predicting Workforce Engagement Levels using Machine Learning<br>
-🤖 LLM-powered Question Answering (GA) Bot<br>
+🤖 LLM-powered Question Answering (QA) Bot<br>
 📊 Customer Purchase Prediction using Machine Learning & Feature Engineering<br><br>
 
 🏆 **Achievements:**<br>
