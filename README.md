@@ -47,25 +47,70 @@ I aspire to become an **AI Engineer, Machine Learning Engineer, Data Scientist, 
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-### 👨‍💻 Languages
-Python • SQL • JavaScript • HTML5 • CSS3
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / Machine Learning
-Machine Learning • Deep Learning • NLP • Generative AI • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • AI Agents • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=spacy&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge&logo=semanticweb&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-E91E63?style=for-the-badge&logo=robotframework&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-673AB7?style=for-the-badge&logo=jupyter&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-3949AB?style=for-the-badge&logo=apachespark&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge&logo=tableau&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-00ACC1?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+---
 
 ### 🌐 Backend Development
-Flask • FastAPI • REST APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 Data Analytics
-Power BI • Excel • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA) • Feature Engineering • Predictive Analytics
+---
 
-### 🗄 Databases
-MySQL • SQLite
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
 
 ### ☁️ Cloud & DevOps
-Git • GitHub • Postman • MLflow • AWS • Google Cloud Platform • Docker • Kubernetes • Anaconda
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
